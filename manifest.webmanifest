@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Arkansas Driver Exam Prep — 2026",
+  "short_name": "AR Driver Prep",
+  "description": "Interactive Arkansas driver knowledge exam cram course with chapter lessons, flashcards, quizzes, audio links and progress tracking.",
+  "lang": "en-US",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7fb",
+  "theme_color": "#174ea6",
+  "categories": ["education", "reference"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
